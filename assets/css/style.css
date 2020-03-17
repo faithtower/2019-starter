@@ -1,0 +1,38 @@
+
+
+#addressBar{
+    background-color: rebeccapurple;
+}
+.intro-section{
+    background-color: rgb(197, 208, 218);
+    display: flex;
+    justify-content: space-around;
+}
+
+.intro-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0A3450;
+    color: white;
+}
+.upp{
+    width: 100%;
+}
+
+.intro-person{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.text-init .upp{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.div-line{
+    width: 250px;
+    height: 6px;
+    background-color: chartreuse;
+}
